@@ -1,1 +1,2 @@
-# DataViz
+# Data visualization
+DataViz
